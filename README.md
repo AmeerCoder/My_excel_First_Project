@@ -62,6 +62,8 @@ Vrinda Store Annual Report 2022
 - Ex. 8 Highest selling category?, etc.
 
 **Sample Insights**
+
+
 **Women are more likely to buy compared to men (65%)**
 
 ![image](https://github.com/user-attachments/assets/976871bd-1ee2-46df-afdc-2a734235a3bf)``
