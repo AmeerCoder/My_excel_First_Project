@@ -1,4 +1,29 @@
 # My_excel_First_Project
+
+Vrinda Store Annual Report 2022																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+
 **Project Title** :  Verinda Store 2022 Analysis
 **Problem :**
 - Ex. 1 Compare the sales and orders using single chart?
