@@ -2,13 +2,13 @@
 **Project Title** :  Verinda Store 2022 Analysis
 **Problem :**
 - Ex. 1 Compare the sales and orders using single chart?
-Which month got the highest sales and orders?
-Who purchased more men or women in 2022?
-What are the different order status in 2022?
-List of top states contriuting to the sales?
-Relation between age and gender based on number ?
-Which Channel contributing to maximum sales?
-Highest selling category?, etc.
+- Ex. 2 Which month got the highest sales and orders?
+- Ex. 3 Who purchased more men or women in 2022?
+- Ex. 4 What are the different order status in 2022?
+- Ex. 5 List of top states contriuting to the sales?
+- Ex. 6 Relation between age and gender based on number ?
+- Ex. 7 Which Channel contributing to maximum sales?
+- Ex. 8 Highest selling category?, etc.
 
 **Sample Insights**
 **Women are more likely to buy compared to men (65%)**
